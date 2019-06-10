@@ -1,6 +1,6 @@
 import urllib.request
 import os
-#adding KeyboardInterrupt
+
 print("client has started")
 
 imageFiles= urllib.request.urlopen(http://localhost:8081)
